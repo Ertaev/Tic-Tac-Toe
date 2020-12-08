@@ -1,0 +1,10 @@
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="app_name"> DataFlair TicTacToe</string>
+    <string name="size_of_board">3</string>
+    <string name="X">" X "</string>
+    <string name="O">" O "</string>
+    <string name="none">" "</string>
+    <string name="turn">Ходит:</string>
+    <string name="restart">Заново</string>
+</resources>
